@@ -33,7 +33,6 @@ zuber-chicago-analysis/
 │   └── notebook.ipynb
 │
 ├── README.md
-└── requirements.txt
 ```
 ## ✨ Features
 - 🔍 Competitor Analysis: Identify the leading taxi companies based on ride frequency.
