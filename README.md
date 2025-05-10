@@ -30,7 +30,7 @@ zuber-chicago-analysis/
 │   └── analysis_queries.sql
 │
 ├── notebooks/
-│   └── zuber_analysis.ipynb
+│   └── notebook.ipynb
 │
 ├── README.md
 └── requirements.txt
