@@ -45,7 +45,7 @@ zuber-chicago-analysis/
 ### ✅ Top Taxi Companies
 Flash Cab and Taxi Affiliation Services led in ride volume on Nov 15–16, 2017, suggesting they are major companies in the market.
 
-###📍 Top Drop-Off Locations
+### 📍Top Drop-Off Locations
 The most popular drop-off neighborhoods include areas near downtown Chicago, highlighting potential demand hubs for Zuber.
 
 ### 🌧️ Weather vs. Ride Duration
