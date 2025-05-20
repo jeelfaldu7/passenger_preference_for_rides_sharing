@@ -75,3 +75,6 @@ Using hypothesis testing, we found that rainy Saturdays lead to significantly lo
 This project was created as part of the TripleTen Data Science program. Special thanks to:
 - Dataset Source: Practicum by Yandex, Chicago Public Data Portal
 - TripleTen instructors and peers for ongoing support and feedback
+
+## 🛡️ License
+This project is licensed under the MIT License.
